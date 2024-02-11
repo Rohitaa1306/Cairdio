@@ -1,3 +1,5 @@
+**Note:** This README provides an overview of the project. For detailed information, refer to the project report and code documentation.
+
 # Multiple-track PhonoCardioGraphy (PCG) and Artificial Intelligence (AI) for Heart Defect Detection
 
 ## Table of Contents
@@ -54,4 +56,3 @@ Preprocessing involves spike removal, baseline wandering mitigation, and signal 
 ### Results for Corrupted Segment Detection
 Binary mask plots derived from annotations and the degree of periodicity show close alignment, indicating successful automation of corrupted segment detection.
 
-**Note:** This README provides an overview of the project. For detailed information, refer to the project report and code documentation.
